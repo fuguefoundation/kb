@@ -56,7 +56,13 @@
 * [Initial Server Setup with Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
 * [How to Set Up SSH Keys on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04)
 
-## Other
+## Tools
 
 * [Proof of attendance protocol (POAP)](https://app.poap.xyz/)
 * [Staking Calculator](https://beaconcha.in/calculator)
+* [Beacon Chain Knowledge Base](https://kb.beaconcha.in/)
+
+## Articles
+
+* [Validated, staking on eth2: #6 - Perfect is the enemy of the good](https://blog.ethereum.org/2020/12/10/validated-perfect-is-the-enemy-of-the-good/)
+* [ETH2.0: Everything You Need to Know](https://medium.com/mycrypto/eth2-0-everything-you-need-to-know-eb32fbfe0bd)
